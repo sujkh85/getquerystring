@@ -2,6 +2,12 @@
 
 ### Javascript browser querystring
 
+### install
+
+```
+  npm i getquerystring
+```
+
 ### Example
 
 ```
