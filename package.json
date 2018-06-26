@@ -1,0 +1,21 @@
+{
+  "name": "getquerystring",
+  "version": "0.0.1",
+  "description": "javascript browser querystring",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujkh85/getquerystring.git"
+  },
+  "keywords": [
+    "javascript",
+    "util"
+  ],
+  "author": "sujkh85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujkh85/getquerystring/issues"
+  },
+  "homepage": "https://github.com/sujkh85/getquerystring#readme",
+  "email": "wjdrudghks85@gmail.com"
+}
